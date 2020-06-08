@@ -1,2 +1,2 @@
 # CarRentingService
-Website developed using Jsva (JSP, Servlet, JDBC)
+Website developed using Java (JSP, Servlet, JDBC)
